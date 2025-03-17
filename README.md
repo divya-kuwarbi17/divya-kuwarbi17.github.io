@@ -1,4 +1,4 @@
-<!-- Divya's Portfolio Website 🌐
+Divya's Portfolio Website 🌐
 
 Please visit my portfolio using this link-> https://divya-kuwarbi17.github.io
 
